@@ -1,0 +1,34 @@
+.boss {
+    color:yellow
+}
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: 1.2em;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.lord {
+    color: aquamarine;
+}
+.typewritter {
+    color:brown
+}
+
+h1.yeku {
+    font-style: italic;
+ }
+.okk {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: bolder;
+}
+.yeku {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: white;
+}
+p.boxed {
+    border: 5px solid red;
+}
+

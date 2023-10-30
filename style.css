@@ -1,0 +1,22 @@
+h1.God {
+   font-size: larger;
+   color:aqua
+}
+.block {
+   display: block;
+}
+.display {
+   display: block;
+}
+img.smack-in-the-middle {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}                                                                                                                                                  
+iimg.smack-in-the-middle {
+   display: block;
+   margin: 0 auto 0 auto;
+}
+img.wrap-around-the-right-side {
+   float: left;
+}
